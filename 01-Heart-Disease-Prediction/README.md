@@ -1,3 +1,7 @@
+# Heart Health Decoded (84.74% Accuracy)
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue?style=flat&logo=kaggle)](https://www.kaggle.com/code/akashawan/heart-health-decoded)
+
 #  Heart Disease Diagnostic Assistant (84.74% Accuracy)
 
 Is project mein humne machine learning ka istemal karte hue heart disease ko predict karne ka ek system banaya hai. Humne EDA (Exploratory Data Analysis) se lekar Model Optimization tak ke saare steps follow kiye hain.
