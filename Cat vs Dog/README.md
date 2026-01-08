@@ -12,7 +12,7 @@ The goal of this project was to design a robust deep learning model capable of d
 * **Overfitting Control:** Implemented Dropout layers to ensure the model generalizes well on new data.
 * **Efficiency:** Designed to be lightweight yet powerful for faster training.
 
----
+
 
 ## Custom Architecture Breakdown
 The model follows a strategic sequence of layers designed during our collaborative development:
@@ -44,10 +44,6 @@ By fine-tuning the **Custom Architecture**, we achieved:
 
 
 
-##  Practical Application (The "Mazdoor" Vision)
-This custom classification logic serves as a foundation for my upcoming **Mazdoor App**. The same CNN principles will be applied to:
-* **Identity Verification:** Ensuring users upload authentic profile pictures.
-* **Automated Document Sorting:** Detecting and verifying CNIC/ID cards during registration.
 
 
 **Developed  Intellectual Honesty.**
